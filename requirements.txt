@@ -1,0 +1,4 @@
+PyQt5==5.15.9
+psutil==5.9.6
+wmi==1.5.1
+pyinstaller==6.3.0
